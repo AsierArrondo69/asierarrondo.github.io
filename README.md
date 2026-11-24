@@ -12,6 +12,10 @@ Abre `index.html` en un navegador para ver el sitio. No requiere dependencias ni
 - `styles.css`: estilos y diseño responsive.
 - `script.js`: menú móvil y año del pie de página.
 
+## Analítica
+
+Este sitio utiliza Microsoft Clarity para analizar cómo interactúan los visitantes con el portfolio.
+
 ## Licencia
 
 El código fuente del sitio (HTML, CSS, JavaScript y configuración) se distribuye bajo la licencia [MIT](./LICENSE), Copyright (c) 2026 Asier Arrondo.
