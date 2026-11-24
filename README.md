@@ -11,3 +11,9 @@ Abre `index.html` en un navegador para ver el sitio. No requiere dependencias ni
 - `index.html`: contenido y estructura del portfolio.
 - `styles.css`: estilos y diseño responsive.
 - `script.js`: menú móvil y año del pie de página.
+
+## Licencia
+
+El código fuente del sitio (HTML, CSS, JavaScript y configuración) se distribuye bajo la licencia [MIT](./LICENSE), Copyright (c) 2026 Asier Arrondo.
+
+El contenido personal del portfolio —incluidos el CV, las imágenes y fotografías, los textos biográficos y la documentación personal— no forma parte de esa licencia MIT. Ese contenido permanece protegido por derechos de autor (Copyright) y todos los derechos están reservados. La licencia MIT no concede permiso para copiarlo, reutilizarlo ni distribuirlo.
