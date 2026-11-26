@@ -629,7 +629,7 @@ p {
 
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 16px;
 }
 
@@ -838,6 +838,34 @@ p {
   color: #a4afa6;
   font-size: 11px;
   line-height: 1.8;
+}
+
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.project-links a {
+  color: var(--accent);
+  font-size: 10px;
+  text-decoration: none;
+}
+
+.project-links a:hover {
+  text-decoration: underline;
+}
+
+.portfolio-sites {
+  margin-top: 30px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+
+.portfolio-sites h3 {
+  margin-bottom: 12px;
+  font-size: 13px;
 }
 
 .toolkit-section {
